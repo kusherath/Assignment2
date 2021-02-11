@@ -1,3 +1,20 @@
+Whole project is inside the master branch.
+
+
+
+Application for Software Engineer Position in Open University Of Sri Lanka
+
+This Application is entirely based on Laravel, php framework and bootstrap frameworks.
+
+
+Output
+
+In here if a candidate fill the application form all the data is saved in the database and also the candidate could add or delete their own record.
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
